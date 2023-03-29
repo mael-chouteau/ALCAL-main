@@ -1,0 +1,6 @@
+PyPDF2
+reportlab
+pytz
+bs4
+icalendar
+selenium

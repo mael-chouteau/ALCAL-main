@@ -1,0 +1,8 @@
+CONNEXIONBDD = "[*] Connecté à la BDD"
+CONNEXIONALCUIN = "[*] Connexion à Alcuin"
+CONNEXIONALCUINOK = "[+] Connexion à Alcuin OK"
+CONNEXIONALCUINNOK = "[-] Connexion à Alcuin NOK"
+EXTRACTIONDESJOURS = "[*] Extraction des données et création du calendrier"
+EXTRACTIONJOUR = "[*] Synchronisation du "
+AGENDASYNCRONISE = "[*] Agenda synchronisé!"
+USAGE = "Usage: main.py [-h] [-o output] nb_de_jours nb_de_jours_de_décalage"

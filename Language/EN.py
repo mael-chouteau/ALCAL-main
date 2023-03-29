@@ -1,0 +1,8 @@
+CONNEXIONBDD = "[*] Connected to the DB"
+CONNEXIONALCUIN = "[*] Connecting to Alcuin"
+CONNEXIONALCUINOK = "[+] Connection to Alcuin OK"
+CONNEXIONALCUINNOK = "[-] Connection to Alcuin NOK"
+EXTRACTIONDESJOURS = "[*] Extracting data and creating the calendar"
+EXTRACTIONJOUR = "[*] Synchronizing the "
+AGENDASYNCRONISE = "[*] Agenda synchronized!"
+USAGE = "Usage: main.py [-h] [-o output] nb_of_days nb_of_days_to_start_from"

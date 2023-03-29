@@ -1,0 +1,8 @@
+geckodriver.log
+secret.py
+__pycache__/
+PDFs-presence/*
+.nextcloudsync.log
+.sync*
+.vscode/settings.json
+Feuille-temps/*

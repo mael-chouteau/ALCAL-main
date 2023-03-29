@@ -1,0 +1,8 @@
+CONNEXIONBDD = ""
+CONNEXIONALCUIN = ""
+CONNEXIONALCUINOK = ""
+CONNEXIONALCUINNOK = ""
+EXTRACTIONDESJOURS = ""
+EXTRACTIONJOUR = ""
+AGENDASYNCRONISE = ""
+USAGE = "Usage: main.py [-h] [-o output] nb_of_days nb_of_days_to_start_from"
